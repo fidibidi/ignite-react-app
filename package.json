@@ -54,7 +54,6 @@
     "@storybook/channels": "^3.2.16",
     "@storybook/react-native": "^3.2.16",
     "babel-core": "6.26.0",
-    "babel-eslint": "7.1.1",
     "babel-jest": "22.0.4",
     "babel-plugin-ignite-ignore-reactotron": "^0.3.0",
     "babel-preset-env": "^1.6.1",
